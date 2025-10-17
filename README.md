@@ -4,7 +4,7 @@ A website for the "Hola Mozilla" orientation program organized by the Mozilla Ca
 
 
 ### Figma Design
-[View the Figma design](https://www.figma.com/design/divsaqMRw8UTKhdkPzpk14/HolaMozilla-2025-Web)
+[View the Figma design](https://www.figma.com/design/kaKGly2zkLX0NMkGvhdrz4/HolaMozilla-2025-Web)
 
 
 ## Features
